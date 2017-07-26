@@ -3,5 +3,5 @@ An Open Source Software (OSS) for Integrated Management and Planning of Actions 
 
 ### Under development
 The software is still currently under development both the server API and the client interface.
-- Server API: <https://github.com/dumparkltd/impactoss-server>
-- Client interface: <https://github.com/dumparkltd/impactoss-client>
+- [Server API](https://github.com/dumparkltd/impactoss-server)
+- [Client interface](https://github.com/dumparkltd/impactoss-client)
